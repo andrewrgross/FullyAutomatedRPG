@@ -1,0 +1,546 @@
+Fully Automated!
+Adversary Appendix
+A Fully Automated Monster Manual
+
+
+Sections to Add:
+Contents
+Designing Combat Encounters
+Anatomy of an Adversary
+Adversaries
+Heirloom Human
+Augmented Human
+Bioaugmented
+Cyberaugmented
+Machine
+Android (Light, medium, Heavy)
+Mech
+Rotor drone (light, medium, heavy
+Animal
+Other
+Designing Combat Encounters
+There’s certainly no singular way to plan combat encounters. However for the sake of GMs trying to do so, we’ve made an effort to systematize this process somewhat. The results may be quite different from other monster manuals. This is somewhat unavoidable: many RPGs routinely line up hoards of fungible, worthless canon fodder for the players to gleefully mow down. In a game like Fully Automated, that’s really not practical. The tone and setting apply a lot of considerations to the way that both player characters and non-player characters engage in combat. All of this is to say that when planning a fight for the players, choosing the right number of health points (HP) is the least of your challenges. A much bigger one is determining what kind of weapon a given player would reasonably have access to in a given scenario. For this reason, a great deal of attention has been paid when composing this guide to explaining the narrative process of figuring out who, what, where, when, and why players might encounter a fight. To begin this process, consider the three “C”s: Concept, Context, and Consequences.
+
+Concept 
+The concept is often a simple idea regarding who or what the players are facing, and what it feels like for the players. Example concepts could be “The players fight off guards if they get caught sneaking into a warehouse” or “The players are confronted by a pack of wolves.”
+
+Context
+The context is how and why the adversaries are where they are, and why a fight might take place where it does. It doesn’t make much sense for adversaries to try and rob players on a ferry without a way to escape, for instance. But it does make some sense if they plan to arrive and depart in a rigid inflatable motorboat. 
+A confrontation may occur when adversaries loudly announce their arrival to a place where the players are, or it may begin with the players surprising their opponents. Often, deciding on the location, the number of adversaries, each side’s level of expectation, and other conditions of a physical confrontation can be very challenging. To overcome this, we recommend asking some of the following questions:
+What do the adversaries want?
+What do they know?
+What constraints are they under? Common ones may be time, avoiding detection, etc.
+From these, a GM can ask how the adversaries would arrive in the same place as the players, where that would be, how they would act, and where they might go upon retreating. These questions may feel challenging, but sitting with them will often produce answers to what location would make sense for a confrontation, as well as how many adversaries would be present and what weapons they might employ. 
+Consequences
+The consequence of the confrontation includes what might be expected to happen during the encounter, how it might end, and how that would affect the story.
+The consequences during the fight may include delivering to the players a sense of shock from the discovery that they have an adversary of which they weren’t aware. It may be used to communicate the depth of another character’s anger or desperation. Consider what purpose the encounter is meant to serve in the narrative, then let that modify the context of the encounter. It’s also wise to consider what tactics your players are likely to employ and decide whether you want those tactics to be highly effective or to encounter well-prepared defenses.
+Consequences after a fight should be considered in order to make sure that the GM is prepared to continue the story regardless of how things go. 
+A good point to start from is to ask what would happen next if players are successful. Keep in mind that unlike what players or GMs may have encountered in RPGs in the past, players do not simply win a fight and then walk away. Wounded attackers may need to be attended to. They may need to be identified and taken into detention to begin a process of restorative justice.
+Next, ask what might happen if the players failed catastrophically. In most cases, it makes sense for an attacker to want something other than the death of the players, and to write an end to the fight when the adversary achieves that. It might be departing after taking possession of an item or compelling the players to retreat. 
+After this, consider intermediates, such as some adversaries fleeing successfully after one or more are incapacitated in the fight. 
+For each of these cases, imagine what comes next for the players. Do they advance to the next part of the story with a key secret revealed? Do they proceed in a neutral fashion or with a small token conferring a minor buff to be used in a future encounter? Or do they continue on in the story wounded and/or in a state of desperation?
+
+Concepts
+Concepts are loose. They’re often a simple, incomplete idea that may change significantly as you develop it. They often start within some common frameworks.
+
+Players may be planning a confrontation against an adversary that they intend to take fully unaware. They may be planning for a confrontation against an adversary is expecting them, but doesn’t know when the players will strike. Or the confrontation may be at a time and place known to all parties.
+
+Conversely, the players may be the ones who face an unexpected attack. 
+
+
+Context
+Context is probably the most essential component to designing a combat encounter which is narratively interesting and engaging to the players.
+
+In all cases, it’s strongly advised that the GM consider what each side wants and why it might motivate either side to use physical force. Considering goals carefully typically produces a few considerations.
+
+First, it is very unusual that anyone considers physical harm against another to be an end to itself rather than a means. Even when it seems to be the case, parties to a conflict typically have a larger purpose they hope to achieve. They may want to intimidate someone or punish them, but that larger aim supersedes a blind desire to kill. Recognizing this is crucial to tying a concept into a larger story and considering how the combat encounter resolves. Usually, the goals of the fight dictate when it ends. Unlike many other games, running a fight blindly until adversaries have all lost all their health points is highly discouraged.
+
+Additionally, thinking about the motivations for a fight will often reveal a persistent challenge: rational actions rarely produce fights (especially balanced ones). In almost any circumstance, the best way to achieve most goals which motivate a fight is to find a time and place that minimizes risk. It makes more sense to steal something when someone is asleep than to try and rob it off them. When planning an assault, it makes sense to employ enough people that there is no reason for an adversary to fight, because the outcome appears utterly hopeless. These can make finding a justification for a fight rather challenging. But that’s good. If it’s hard to justify a fight, that means that its concept as originally envisioned is probably not good.
+The response…
+
+
+
+Off-The-Shelf Adversaries:
+This section features genericized enemies you can drop into a game. 
+
+Rotor Drone - Medium Weight
+HP:		12
+Armor:		0
+Speed:		25
+Movement:	5 hex
+Attacks:	Pistol, Microdarter, Stun projectile
+Concepts
+Players encounter a rotor drone when it attempts to keep them out of an area of the forest. It could be an environmental monitoring drone or a drone for restricting migration or smuggling through an area.
+Context
+The drone is set up to keep people out, and perhaps it is housed in a durable, weatherized, self-maintaining station. Perhaps it deploys daily for a sweep and then returns to its dock. Perhaps it deploys when sensors in the area detect targets. Or perhaps it is remotely deployed from a crewed station like a home or ranger station.
+When it encounters the players, it may be attempting to intimidate them first or immediately resort to force. It makes sense in most cases when attempting to deter people from entering an area to first verbally instruct them to leave, then escalate to non-lethal aggression. If lethal force is to be employed, it would make sense that the drone communicates this clearly before engaging unless under the command by a highly maladjusted individual or group.
+Consequences
+The rotor drone would arrive from its starting location or deploy upon the players approaching the location at which it waits and engage the players. It may begin by moving into a position from which it can attack and delivering an ultimatum. 
+Consequence During:
+Players are likely to take defensive positions from one more more drones and attempt any or several of the following:
+Ranged attacks
+Attempts at diplomatic deescalation
+Information gathering
+Radio hacking
+Sensor hacking
+
+
+Consequences After:
+If players are highly successful, they may disable the drone and access its hardware and onboard data. It may be encrypted or damaged, but from this they may learn about who sent it based on the purpose of its manufacturer or ownership history.
+If the players fail badly, make their retreat easy. The drone may attempt to wound them, but should not pursue them or attempt to incapacitate them.
+If you’d prefer for the drone to attempt to kill them, you may want to either deliberately throw the fight through bad tactics or fudged rolls, or narratively describe it encountering some kind of malfunction, rescuing the players by obvious deus ex machina.
+The most likely intermediate outcome would be for the drone or drones to retreat after suffering damage. Since the drones have relatively low health points, the drones might be programmed to retreat after their HP drops below half, after suffering any damage, or along any other logical choice. 
+
+
+
+
+
+Tactics:	
+Weaknesses:
+Flavor:
+Player experience
+
+Characters
+HP
+Armor
+Speed
+Attacks
+
+
+12
+0
+25
+✊   Punch         🗡 Club            🏹   Microdarter
+
+
+
+
+Adversaries From Previous Games:
+A collection of examples of enemies from existing modules. Warning: these examples may include spoilers for the premade campaigns. 
+
+The Crusaders of West Covina
+Context:
+The Crusaders are a team of dim unaffiliated protectors who get duped into recovering a drive for the mysterious adversary of A DEMOnstration of Power. They explain that they were sent to recover the drive by any means necessary, and to look out for imposters pretending to be couriers, which is why they broke their way in. 
+
+One of the independent adventurers sent to recover the data drive
+Names:		RedStar; 	Bigsby Styles
+DOC:		2088_MAR_04 (Age 36)
+
+Associations	Anaheim Civilian Order of Protectors, 2118 - 2119
+		The Crusaders of West Covina, 2123 - Present
+
+	The leader of this band of idiots
+
+One of the independent adventurers sent to recover the data drive
+Names:		YellowEx; 	Michaela Wayne
+DOC:		2085_SEP_30 (Age 39)
+
+Associations	Pacifica Coast Guard, Seaman Apprentice, 2109 - 2119
+		The Crusaders of West Covina, 2123 - Present
+
+	Red’s “seasoned” ex-miliatry second-in-command
+
+One of the independent adventurers sent to recover the data drive
+Names:		Blu’hawk;	Filigree Larson
+DOC:		2093_AUG_15 (Age 31)
+
+Associations	Inland Empire Call of Duty minors league, 2117 - 2121
+		The Crusaders of West Covina, 2124 - Present
+
+	A friend of Red & Yellow, with a bit more sense than the two of them.
+
+One of the independent adventurers sent to recover the data drive
+Names:		Green;		Norma Wayne
+DOC:		2196_SEP_12 (Age 28)
+
+Associations	The Crusaders of West Covina, 2124 - Present
+
+	Yellow’s sister, younger by 11 years. Gets annoyed with constant jokes about being the 
+“rookie”. The most self-aware of the bunch.
+
+
+
+Faceoff against the Crusaders
+Center for Optimal Dist. of Power office
+
+
+Characters
+HP
+Armor
+Speed
+Attacks
+Bigsby Styles (Red star)
+22
+1
+22
+✊   Punch         🗡 Club            🏹   Microdarter
+Yusa Kravitz (Yellow X)
+22
+1
+22
+✊   Punch         🗡 Club            🏹   Microdarter
+Filigree Larson (Blue stripe)
+22
+1
+22
+✊   Punch         🗡 Club            🏹   Microdarter
+Michaela Wayne (Green bar)
+22
+1
+22
+✊   Punch         🗡 Club            🏹   Microdarter
+
+
+
+
+
+
+
+The Funkes
+
+Context:
+Players walk in on four travatars robbing a laboratory. (Travatars are travelers remotely operating androids at a distance as an alternative to physically visiting a far away destination.) When attempts to talk their way out fail, the travatars draw pistols and attempt to shoot their way out.
+Based on their appearance and public IDs, these four appeared to be a German family on holiday borrowing a set of four travatars from a local remote travel agency called Gold Coast Travatars. 
+
+“German tourist”
+Names:		Wilka Funke
+DOC:		2063 (Age 61)
+Res:	       	Munich, DE
+Species:     	Human avatar
+Gender:      	Fem (She/They)
+
+Associations	Gold Coast Travatars
+
+“German tourist”
+Names:		Helmut Funke
+DOC:		2055 (Age 69)
+Res:	       	Munich, DE
+Species:     	Human avatar
+Gender:      	Masc (He/They)
+
+	Associations	Gold Coast Travatars
+“German tourist”
+Names:		Ingrid Funke
+DOC:		2097 (Age 27)
+Res:	       	Munich, DE
+Species:     	Human avatar
+Gender:      	Fem (She/They)
+
+	Associations	Gold Coast Travatars
+
+“German tourist”
+Names:		Gerhard Funke
+DOC:		2101 (Age 23)
+Res:	       	Munich, DE
+Species:     	Human avatar
+Gender:      	NB (He/They)
+
+	Associations	Gold Coast Travata
+
+
+
+Stopping the Funkes!
+Crystal Bullshit Gang Biotech Lab
+
+
+Character
+HP
+Armor
+Speed
+Attacks
+ “Wilke”(Green)
+10
+0
+10
+✊   Punch          🏹   Pistol
+ “Helmut” (Blue)
+10
+0
+10
+✊   Punch          🏹   Pistol
+ “Gerhard” (Red)
+10
+0
+10
+✊   Punch          🏹   Pistol
+ “Ingrid”(Orange)
+10
+0
+10
+✊   Punch          🏹   Pistol
+
+
+
+
+
+
+The Kontrol Phreaks
+Context:
+The Kontrol Phreaks, a notorious gang of black-hat biohackers who practice the darkest of arts: mind control.
+
+
+Leader of the Kontrol Phreaks
+Names:		Mentok the MindTaker;	Dieter Gerhardt (Given)
+DOB:		2095_SEP_29 (Age 31)
+Res:		Unknown
+Species:		Human
+Gender:		Mac (They/Master)
+Followers:  	Unknown
+Sapience:  	S5
+
+Education   	BS in Psychology, University of Salzburg, 2115
+Graduate credits in Psychochemistry, U. of Salzburg, 2116
+
+Associations 	FC Nürnberg Verein für Leibesübungen, reserve, 2109 - 2111
+		Kontrol Phreaks, 2114 - ?
+
+Violations	Ethics violations, 2116  - [Expelled from University]
+Stalking, 2117
+Manufacture of restricted substances, 2120
+Enchantment, 2122 - [Banished from European Union]
+
+
+Member of the Kontrol Phreaks
+Names:		Gehirnwäsche; 	       Brainwash;	      Luzia Müller (Given)
+      	Lucy Hoffman (Alias)
+DOB:		2099_NOV_17 (Age 27)
+Res:		Unknown
+Species:		Human
+Gender:		Femme (They/Mistress)
+Followers:  	Unknown
+Sapience: 	S5
+
+Education   	BS in Somnology, University of Salzburg, 2120
+
+Employment	Researcher, Traumzentrum München, 2119 - 2121
+
+Associations 	Kontrol Phreaks, 2116 - Present
+
+Violations	Sexual consent violations, 2117
+Enchantment, 2122 - [Banished from European Union]
+
+
+
+
+  
+
+Member of the Kontrol Phreaks
+Names:		Frühaufsteher;   Morning person;     Grendel Müller (Given)
+DOB:		2097_OCT_05 (Age 29)
+Res:		Unknown
+Species:		Human
+Gender:		Fem (They/Master)
+Followers:	Unknown
+Sapience: 	S5
+
+Education   	AD, XR Video production, 2116
+
+
+Associations 	Videospiele Nürnberg, 2114 - 2118
+Kontrol Phreaks, 2115 - ?
+
+Violations	Enchantment, 2122 - [Banished from Deuchland]
+
+Member of the Kontrol Phreaks
+Names:		Ram||Overrun;    	płynny metal 2103;  
+pm3400_2103_G_199
+DOB:		2103_MAY_17 (Age 20)
+Res:		Unknown
+Species:		Embodied Synth
+Gender:		NB (They/Overlord)
+Followers:	Unknown
+Sapience:	S5
+
+Education   	Warsaw Mechoptronika Ośrodek Edukacji Syntetycznej, 2106
+LIC, Hazardous Materials Handling, 2109
+LIC, Health Data Collection & Analysis, 2111
+
+Employment	Researcher, Traumzentrum München, 2114 - 2120
+
+Associations 	Kontrol Phreaks, 2116 - Present
+
+Violations	Trespassing, 2115
+Enchantment, 2122 - Fled a decommission directive issued by EU
+
+Musician under control of the Kontrol Phreaks
+Names:		Warpcore		Dora Fazin
+DOB:		2099_MAY_11 (Age 24)
+Res:		Tabiz, Persia
+Species:		Human
+Gender:		NB (They/Them)
+Followers:	25.9 M
+Sapience:	S5
+
+
+
+
+
+
+
+Showdown with the Kontrol Phreaks
+Van Nuys Crater Receiving Dock
+
+
+Character
+HP
+Armor
+Speed
+Attacks
+Mentok
+22
+0
+21
+✊   Punch          🏹   Pistol        ⚔  Sword
+Brainwash
+23
+0
+21
+✊   Punch          🏹   Pistol
+Ram||Overrun
+24
+0
+24
+✊   Punch          🏹   Pistol
+Morning Person
+20
+0
+21
+✊   Punch          🏹   Pistol
+TeddySnare
+21
+0
+21
+✊   Punch          🏹   Pistol
+
+
+
+
+
+Unknown Assailants from the SkyStation Robbery
+Context:
+This setup is designed to be challenging. The attackers have strong armor and rifles, which makes them very formidable, although also gives players a justification to cut loose a bit. The attackers will leverage extreme force to try to take the package, and will disengage as soon as they have it. The GM should feel free to hold nothing back, but should also make clear whenever a player takes damage that they can end the fight by surrendering the package. The attackers should also show little to no self-preservation impulse, at least until one of them is subdued. At that point, they should retreat.
+
+
+Unknown Assailant
+Names:		-  (Unidentified)
+DOC:		-
+Res:	       	-
+Species:     	-
+Gender:      	-
+Followers:  	-
+Sapience:  	-
+
+
+Unknown Assailant
+Names:		-  (Unidentified)
+DOC:		-
+Res:	       	-
+Species:     	-
+Gender:      	-
+Followers:  	-
+Sapience:  	-
+
+
+Unknown Assailant
+Names:		-  (Unidentified)
+DOC:		-
+Res:	       	-
+Species:     	-
+Gender:      	-
+Followers:  	-
+Sapience:  	-
+
+
+
+Unknown Assailant
+Names:		-  (Unidentified)
+DOC:		-
+Res:	       	-
+Species:     	-
+Gender:      	-
+Followers:  	-
+Sapience:  	-
+
+
+
+Sky Station Robbery
+Long Beach Waste Treatment Sky Station
+
+
+Character
+HP
+Armor
+Speed
+Attacks
+Brown Attacker
+20
+2
+20
+✊   Punch          🏹   Rifle
+Red Attacker
+20
+2
+20
+✊   Punch          🏹   Rifle
+Blue Attacker
+20
+2
+20
+✊   Punch          🏹   Rifle
+Optional: Purple Attacker
+20
+2
+20
+✊   Punch          🏹   Rifle
+
+
+
+
+
+
+
+Uliana the Vampire
+Context:
+
+Uliana has augmentations and abilities to mimic the powers of a fearsome vampire: she is strong, fast, durable, and skilled in fighting and psionics. Recommended augmentations and abilities include:
+Lucky Break		 (Apply advantage to one action)
+Uncanny Dodge 	(Ignore damage from one attack and move 1 hex)
+Legendary Dodge 	(Ignore damage from a round and move 2 hexes)
+Move It		(Move action moves 5 spaces)
+Fear Me 		(Compel 1 target to flee for one round)
+Psionic Block 		(+4 on psionic defense roll)
+Calm/Daze 		(Stun an adversary)
+Psi Heal 		(Restore 4 HP)
+… Or whatever else seems fun. Based on how outnumbered she is, feel free to give her as many Abilities & Augmentations as you like.
+
+
+Names:		Uliana Rasputin	
+Age:		Age 41
+Res:		Los Angeles (Pico-Union undercity)
+Species:		Human/Vampire
+Gender:		Femme (She/her)
+Followers:  	2,400 - Restricted
+Sapience: 	S5+
+Associations:	Le Raffinatezze boutique grocery, night crew
+Community:	Domminik Potenza (husband), Yolanda Rasputin (daughter), Clan Anarch of Los Angeles
+
+
+
+
+Vampire Fight
+Rasputin Hall
+
+
+Character
+HP
+Armor
+Speed
+Attacks
+Uliana Rasputin
+30
+1
+28
+✊   Trained Strike     
+ 🏹   Throwing knives; Improvised Throwables
+
+
